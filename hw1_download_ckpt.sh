@@ -1,0 +1,2 @@
+wget -O ./submit_model/p2_b_final.ckpt 'https://www.dropbox.com/scl/fi/kvsp0i3vipbfvbscd8iqi/p2_b_final.ckpt?rlkey=8hzf7har73wu5gnnpqq0r2kwf&st=ln8r2q3x&dl=1'
+wget -O ./submit_model/p1_c.pt 'https://www.dropbox.com/scl/fi/b2zkzqp5q8izkrsktqwp5/p1_c.pt?rlkey=vjndp0bituqwspa32xrb7h724&st=ibas3b6l&dl=1'
